@@ -1,0 +1,223 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #8a817c;
+}
+
+.contenedor{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.caja{
+    width: 25vw;
+    height: auto;
+    font-size: 1.7vw;
+    margin-top: 2vw;
+}
+h3{
+    font-size: 3vw;
+}
+.eng{
+    width: 3vw;
+}
+.abr{
+    width: 3vw;
+}
+.cms{
+    width: 3vw;
+}
+.pnt{
+    width: 3.5vw;
+}
+.crr{
+    width: 3vw;
+}
+p{
+    margin-top: 1.5vw;
+}
+.cr{
+    margin-top: 7vw;
+}
+h4{
+    margin-top: 5vw;
+    font-size: 1.7vw;
+}
+.camis{
+    background-color: #f4f3ee;
+    border-radius: 2vw;
+    width: 40vw;
+    height: 4vw;
+    display: flex;
+    margin-top: 3vw;
+}
+.camis img{
+    width: 3.5vw;
+    height: 3.5vw;
+    margin-left: 1vw;
+}
+.camis p{
+    margin-left: 1vw;
+    margin-top: 1vw;
+}
+
+
+.caja2{
+    width: 65vw;
+    height: 45vw;
+    margin-top: 2vw;
+    background-color: #f4f3ee;
+    border-radius: 2.5vw;
+    overflow: auto;
+}
+h1{
+    font-size: 3.5vw;
+    margin-left: 2vw;
+    margin-top: 2vw;
+}
+.bloque2{
+    width: 60vw;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 3vw;
+}
+
+.cajita{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cajita2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 4vw;
+}
+.cm1{
+    width: 7vw;
+    margin-left: 0.5vw;
+    margin-top: 0.5vw;
+    border-radius: 1.7vw;
+}
+.textcm1{
+    width: 7vw;
+    height: 11vw;
+    font-size: 1.3vw;
+    border-radius: 2vw;
+    border: 1px solid;
+    text-align: center;
+    margin-left: 0.5vw;
+    margin-top: -1.8vw;
+}
+.prc1{
+    margin-top: 0.2vw;
+}
+button{
+    width: 5vw;
+    font-size: 1vw;
+    border-radius: 0.5vw;
+}
+
+.cm2{
+    width: 7vw;
+    margin-left: 0.5vw;
+    margin-top: 0.5vw;
+    border-radius: 1.7vw;
+}
+.textcm2{
+    width: 7vw;
+    height: 10.8vw;
+    font-size: 1.3vw;
+    border-radius: 2vw;
+    border: 1px solid;
+    text-align: center;
+    margin-left: 0.5vw;
+    margin-top: -1.8vw;
+}
+.prc2{
+    margin-top: 0.2vw;
+}
+button{
+    width: 5vw;
+    font-size: 1vw;
+    border-radius: 0.5vw;
+}
+
+.cm3{
+    width: 7vw;
+    margin-left: 0.5vw;
+    margin-top: 0.5vw;
+    border-radius: 1.7vw;
+}
+.textcm3{
+    width: 7vw;
+    height: 15.1vw;
+    font-size: 1.3vw;
+    border-radius: 2vw;
+    border: 1px solid;
+    text-align: center;
+    margin-left: 0.5vw;
+    margin-top: -1.8vw;
+}
+.prc3{
+    margin-top: 0.2vw;
+}
+button{
+    width: 5vw;
+    font-size: 1vw;
+    border-radius: 0.5vw;
+}
+
+.cm4{
+    width: 7vw;
+    margin-left: 0.5vw;
+    margin-top: 0.5vw;
+    border-radius: 1.7vw;
+}
+.textcm4{
+    width: 7vw;
+    height: 12.2vw;
+    font-size: 1.3vw;
+    border-radius: 2vw;
+    border: 1px solid;
+    text-align: center;
+    margin-left: 0.5vw;
+    margin-top: -1.8vw;
+}
+.prc4{
+    margin-top: 0.2vw;
+}
+button{
+    width: 5vw;
+    font-size: 1vw;
+    border-radius: 0.5vw;
+}
+
+.cm5{
+    width: 7vw;
+    margin-left: 0.5vw;
+    margin-top: 0.5vw;
+    border-radius: 1.7vw;
+}
+.textcm5{
+    width: 7vw;
+    height: 16.6vw;
+    font-size: 1.3vw;
+    border-radius: 2vw;
+    border: 1px solid;
+    text-align: center;
+    margin-left: 0.5vw;
+    margin-top: -1.8vw;
+}
+.prc5{
+    margin-top: 0.2vw;
+}
+button{
+    width: 5vw;
+    font-size: 1vw;
+    border-radius: 0.5vw;
+}
+
