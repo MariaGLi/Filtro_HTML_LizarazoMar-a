@@ -20,6 +20,11 @@ body{
     font-size: 1.7vw;
     margin-top: 2vw;
 }
+.bloque{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1vw;
+}
 h3{
     font-size: 3vw;
 }
@@ -71,9 +76,24 @@ h4{
     color: black;
     margin-top: 1vw;
 }
-#cam{
+.cam{
     text-decoration: none;
     color: black;
+    margin-top: 1vw;
+}
+.pn{
+    text-decoration: none;
+    color: black;
+    margin-top: 1.2vw;
+    margin-left: -0.5vw;
+}
+.cr{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    background-color: #f4f3ee;
+    border-radius: 3vw;
 }
 
 .caja2{
@@ -99,7 +119,6 @@ h1{
     display: flex;
     justify-content: space-evenly;
 }
-
 .ab1{
     width: 7vw;
     margin-top: 0.5vw;

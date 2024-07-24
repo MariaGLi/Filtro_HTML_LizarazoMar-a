@@ -13,6 +13,10 @@ body{
     display: flex;
     justify-content: space-evenly;
 }
+.bloque{
+    display: flex;
+    flex-direction: column;
+}
 
 .caja{
     width: 25vw;
@@ -57,7 +61,8 @@ h4{
     width: 40vw;
     height: 4vw;
     display: flex;
-    margin-top: 3vw;
+    margin-top: 1.2vw;
+    margin-left: -1vw;
 }
 .abri img{
     width: 3vw;
@@ -69,7 +74,43 @@ h4{
     margin-left: 1vw;
     margin-top: 1vw;
 }
-
+.cam{
+    text-decoration: none;
+    color: black;
+    margin-top: 1vw;
+}
+.pn{
+    text-decoration: none;
+    color: black;
+    margin-top: 1.2vw;
+    margin-left: -0.5vw;
+}
+.cr{
+    text-decoration: none;
+    color: black;
+}
+.tp{
+    text-decoration: none;
+    color: black;
+}
+.num{
+    width: 2.5vw;
+    height: 2.5vw;
+    background-color: #f4f3ee;
+    margin: 0 auto;
+    margin-top: -2.5vw;
+    margin-left: 10vw;
+    border-radius: 0.7vw;
+}
+.num p{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 0.2vw;
+}
+a:hover{
+    background-color: #f4f3ee;
+    border-radius: 3vw;
+}
 
 .caja2{
     width: 65vw;

@@ -53,7 +53,7 @@ h4{
     margin-top: 5vw;
     font-size: 1.7vw;
 }
-.camis{
+#panta{
     background-color: #f4f3ee;
     border-radius: 2vw;
     width: 40vw;
@@ -62,13 +62,11 @@ h4{
     margin-top: 1.5vw;
     margin-left: -0.7vw;
 }
-.camis img{
+#panta img{
     width: 3.5vw;
     height: 3.5vw;
-    margin-left: 0.5vw;
 }
-.camis p{
-    margin-left: 1vw;
+#panta p{
     margin-top: 1vw;
 }
 .ab{
@@ -76,7 +74,7 @@ h4{
     color: black;
     margin-top: 1vw;
 }
-.pn{
+.cam{
     text-decoration: none;
     color: black;
     margin-top: 1vw;
@@ -85,7 +83,7 @@ h4{
     text-decoration: none;
     color: black;
 }
-.tp{
+#tp{
     text-decoration: none;
     color: black;
 }
@@ -108,7 +106,6 @@ a:hover{
     border-radius: 3vw;
 }
 
-
 .caja2{
     width: 65vw;
     height: 45vw;
@@ -128,7 +125,10 @@ h1{
     margin: 0 auto;
     margin-top: 3vw;
 }
-
+.cajita{
+    display: flex;
+    justify-content: space-evenly;
+}
 .cajita{
     display: flex;
     justify-content: space-evenly;
@@ -138,15 +138,15 @@ h1{
     justify-content: space-evenly;
     margin-top: 4vw;
 }
-.cm1{
+.pt1{
     width: 7vw;
     margin-left: 0.5vw;
     margin-top: 0.5vw;
     border-radius: 1.7vw;
 }
-.textcm1{
+.textpt1{
     width: 7vw;
-    height: 11vw;
+    height: 13vw;
     font-size: 1.3vw;
     border-radius: 2vw;
     border: 1px solid;
@@ -154,7 +154,7 @@ h1{
     margin-left: 0.5vw;
     margin-top: -1.8vw;
 }
-.prc1{
+.prco1{
     margin-top: 0.2vw;
 }
 button{
@@ -163,15 +163,15 @@ button{
     border-radius: 0.5vw;
 }
 
-.cm2{
+.pt2{
     width: 7vw;
     margin-left: 0.5vw;
-    margin-top: 0.5vw;
+    margin-top: 3vw;
     border-radius: 1.7vw;
 }
-.textcm2{
+.textpt2{
     width: 7vw;
-    height: 10.8vw;
+    height: 12vw;
     font-size: 1.3vw;
     border-radius: 2vw;
     border: 1px solid;
@@ -179,7 +179,7 @@ button{
     margin-left: 0.5vw;
     margin-top: -1.8vw;
 }
-.prc2{
+.prco2{
     margin-top: 0.2vw;
 }
 button{
@@ -188,15 +188,15 @@ button{
     border-radius: 0.5vw;
 }
 
-.cm3{
+.pt3{
     width: 7vw;
     margin-left: 0.5vw;
     margin-top: 0.5vw;
     border-radius: 1.7vw;
 }
-.textcm3{
+.textpt3{
     width: 7vw;
-    height: 15.1vw;
+    height: 13vw;
     font-size: 1.3vw;
     border-radius: 2vw;
     border: 1px solid;
@@ -204,7 +204,7 @@ button{
     margin-left: 0.5vw;
     margin-top: -1.8vw;
 }
-.prc3{
+.prco3{
     margin-top: 0.2vw;
 }
 button{
@@ -213,15 +213,15 @@ button{
     border-radius: 0.5vw;
 }
 
-.cm4{
+.pt4{
     width: 7vw;
     margin-left: 0.5vw;
     margin-top: 0.5vw;
     border-radius: 1.7vw;
 }
-.textcm4{
+.textpt4{
     width: 7vw;
-    height: 12.2vw;
+    height: 16.5vw;
     font-size: 1.3vw;
     border-radius: 2vw;
     border: 1px solid;
@@ -229,7 +229,7 @@ button{
     margin-left: 0.5vw;
     margin-top: -1.8vw;
 }
-.prc4{
+.prco4{
     margin-top: 0.2vw;
 }
 button{
@@ -238,15 +238,15 @@ button{
     border-radius: 0.5vw;
 }
 
-.cm5{
+.pt5{
     width: 7vw;
     margin-left: 0.5vw;
     margin-top: 0.5vw;
     border-radius: 1.7vw;
 }
-.textcm5{
+.textpt5{
     width: 7vw;
-    height: 16.6vw;
+    height: 13vw;
     font-size: 1.3vw;
     border-radius: 2vw;
     border: 1px solid;
@@ -254,7 +254,7 @@ button{
     margin-left: 0.5vw;
     margin-top: -1.8vw;
 }
-.prc5{
+.prco5{
     margin-top: 0.2vw;
 }
 button{
@@ -262,4 +262,3 @@ button{
     font-size: 1vw;
     border-radius: 0.5vw;
 }
-
